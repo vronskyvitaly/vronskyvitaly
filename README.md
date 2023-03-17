@@ -1,4 +1,4 @@
-### Hi there, I`m Vitaliy 😎
+### Hi there, I`m Vitaly 😎
 
 - 👋 Hi, I’m @vronskyvitaly
 - 👀 I’m interested in webdev.
