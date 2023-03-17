@@ -5,7 +5,7 @@
 - 👨‍🎓 I’m currently learning RS school
 - 🙇‍♂️ I’m currently learning JavaScript, REACT.
 - 🤝 I’m looking to collaborate in learning frontend, looking for job offer for position of trainee or junior.
-- 📫 How to reach me: email: vronskyvitaly@mail.ru, or just a [Telegram](https://t.me/vitalyvronsky)
+- 📫 How to reach me: email: [Mail](vronskyvitaly@mail.ru), or just a [Telegram](https://t.me/vitalyvronsky)
 
 <!--
 **vronskyvitaly/vronskyvitaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
