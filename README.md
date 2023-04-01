@@ -1,6 +1,6 @@
-### Hi there, I`m Vitaly 😎
+### Hi guys 🖐️  
 
-- 👋 Hi, I’m @vronskyvitaly
+- 😎 I’m @vronskyvitaly
 - 👀 I’m interested in webdev.
 - 👨‍🎓 I’m currently learning RS school
 - 🙇‍♂️ I’m currently learning JavaScript, REACT.
