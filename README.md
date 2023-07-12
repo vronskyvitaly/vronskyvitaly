@@ -2,7 +2,6 @@
 
 - 😎 I’m @vronskyvitaly
 - 👀 I’m interested in webdev.
-- 👨‍🎓 I’m currently learning RS school
 - 🙇‍♂️ I’m currently learning JavaScript, REACT.
 - 🤝 I’m looking to collaborate in learning frontend, looking for job offer for position of trainee or junior.
 - 📫 How to reach me: <a href="mailto: vronskyvitaly@mail.ru">email</a>, or just a [telegram](https://t.me/vitalyvronsky)
