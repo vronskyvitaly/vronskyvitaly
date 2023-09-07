@@ -1,6 +1,6 @@
 
 <div align="center">
-    <a href="https://github.com/vronskyvitaly" target="_blank">
+    <a href="https://github.com/vronskyvitaly/README.md" target="_blank">
         <img href= "https://helpx.adobe.com/content/dam/help/en/creative-cloud/how-to/adobe-stock-sell-photos-videos-vector-online_1408x792.jpg.img.jpg"/>
     </a>
 </div>
