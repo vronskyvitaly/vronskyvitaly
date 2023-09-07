@@ -1,13 +1,13 @@
 
 <div align="center">
-    <a href="https://skyline.github.com/skiffter1337/2023" target="_blank">
+    <a href="https://github.com/vronskyvitaly" target="_blank">
         <img href= "https://helpx.adobe.com/content/dam/help/en/creative-cloud/how-to/adobe-stock-sell-photos-videos-vector-online_1408x792.jpg.img.jpg"/>
     </a>
 </div>
 <div align="center">
     <a href=""/>
     </a>
-    <a href="https://github.com/skiffter1337?tab=repositories" target="_blank">
+    <a href="https://github.com/vronskyvitaly target="_blank">
         <img />
     </a>
 </div>
