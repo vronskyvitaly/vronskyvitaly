@@ -7,7 +7,7 @@
 <div align="center">
     <a href=""/>
     </a>
-    <a href="https://github.com/vronskyvitaly target="_blank">
+    <a href="https://github.com/vronskyvitaly" target="_blank">
         <img />
     </a>
 </div>
