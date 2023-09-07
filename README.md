@@ -1,7 +1,7 @@
 
 <div align="center">
     <a href="https://skyline.github.com/skiffter1337/2023" target="_blank">
-        <img src= "https://helpx.adobe.com/content/dam/help/en/creative-cloud/how-to/adobe-stock-sell-photos-videos-vector-online_1408x792.jpg.img.jpg"/>
+        <img href= "https://helpx.adobe.com/content/dam/help/en/creative-cloud/how-to/adobe-stock-sell-photos-videos-vector-online_1408x792.jpg.img.jpg"/>
     </a>
 </div>
 <div align="center">
