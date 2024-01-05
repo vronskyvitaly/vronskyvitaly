@@ -1,5 +1,34 @@
+### Hi guys! 🖐️  
+
+💼 **Experience:**
+- **Web Development:** Designing and optimizing websites using modern technologies such as HTML5, CSS3, JavaScript. Experience with the Express framework.
+- **Web Design:** Creating creative and unique design concepts tailored to client needs.
+- **Freelance:** Successfully completing projects for various clients on freelance platforms, ensuring high quality and meeting deadlines.
+
+🛠️ **Technical Skills:**
+- Frontend: HTML5, CSS3, JavaScript (React, Vue.js)
+- Backend: Node.js (Express)
+- Design: Adobe Creative Suite (Photoshop, Illustrator), Figma
+- Knowledge of modern web development and design standards.
+
+🏗️ **Current Project:**
+Actively working on an exciting project, utilizing my skills in JavaScript and React to create innovative web solutions.
+
+🔗 **Connect with Me:**
+- 📧 Email: [vronskyvitaly@mail.ru](mailto:vronskyvitaly@mail.ru)
+
+🤝 **Open to New Projects and Collaboration!**
+I'm open to interesting proposals and collaborative projects. Let's create something amazing together!
 
 
+
+
+
+
+
+
+
+<!-- 
 ### Hi guys 🖐️  
 
 💼 **Опыт:**
@@ -15,9 +44,6 @@
 
 🏗️ **Текущий проект:**
 В настоящее время активно работаю над увлекательным проектом, используя свои знания JavaScript и React для создания инновационных веб-решений.
-
-📂 **Портфолио:**
-Посмотрите мои работы на [ссылка на портфолио], чтобы увидеть мои последние проекты и дизайн-концепции.
 
 🔗 **Связь со мной:**
 - 📧 Электронная почта: [vronskyvitaly@mail.ru](mailto:vronskyvitaly@mail.ru)
@@ -35,6 +61,9 @@
 - 🤝 I’m looking to collaborate in learning frontend, looking for job offer for position of trainee or junior.
 - 📫 How to reach me: <a href="mailto: vronskyvitaly@mail.ru">email</a>, or just a [telegram](https://t.me/vitalyvronsky) 
 
+
+📂 **Портфолио:**
+Посмотрите мои работы на [ссылка на портфолио], чтобы увидеть мои последние проекты и дизайн-концепции.
 -->
 
 <!--
