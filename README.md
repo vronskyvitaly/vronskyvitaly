@@ -16,6 +16,7 @@ Actively working on an exciting project, utilizing my skills in JavaScript and R
 
 🔗 **Connect with Me:**
 - 📧 Email: [vronskyvitaly@mail.ru](mailto:vronskyvitaly@mail.ru)
+- 📧 Telegram: [@vitalyvronsky](https://t.me/vitalyvronsky)
 
 🤝 **Open to New Projects and Collaboration!**
 I'm open to interesting proposals and collaborative projects. Let's create something amazing together!
