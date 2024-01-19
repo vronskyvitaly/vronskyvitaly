@@ -17,7 +17,8 @@ Actively working on an exciting project, utilizing my skills in JavaScript and R
 
 🔗 **Connect with Me:**
 - 📧 Email: [vronskyvitaly@mail.ru](mailto:vronskyvitaly@mail.ru)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Icon" width="20" height="20" style="border-radius: 50%;">](https://t.me/vitalyvronsky) Telegram
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Icon" width="20" height="20" style="border-radius: 50%;">](https://t.me/vitalyvronsky) 
+  [<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp Icon" width="20" height="20" style="border-radius: 50%;">](https://wa.me/89251313178)
 
 🤝 **Open to New Projects and Collaboration!**
 I'm open to interesting proposals and collaborative projects. Let's create something amazing together!
