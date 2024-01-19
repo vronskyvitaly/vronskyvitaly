@@ -1,11 +1,12 @@
-### Hi guys! 🖐️  
-
+### Hi guys! 🖐️
+  
 💼 **Experience:**
 - **Web Development:** Designing and optimizing websites using modern technologies such as HTML5, CSS3, JavaScript. Experience with the Express framework.
 - **Web Design:** Creating creative and unique design concepts tailored to client needs.
 - **Freelance:** Successfully completing projects for various clients on freelance platforms, ensuring high quality and meeting deadlines.
 
 🛠️ **Technical Skills:**
+[![Codewars Badges](https://www.codewars.com/users/vitalyvronsky/badges/small)](https://www.codewars.com/users/vitalyvronsky)
 - Frontend: HTML5, CSS3, JavaScript (React, Vue.js)
 - Backend: Node.js (Express)
 - Design: Adobe Creative Suite (Photoshop, Illustrator), Figma
@@ -16,10 +17,14 @@ Actively working on an exciting project, utilizing my skills in JavaScript and R
 
 🔗 **Connect with Me:**
 - 📧 Email: [vronskyvitaly@mail.ru](mailto:vronskyvitaly@mail.ru)
-- 📧 Telegram: [@vitalyvronsky](https://t.me/vitalyvronsky)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Icon" width="20" height="20" style="border-radius: 50%;">](https://t.me/vitalyvronsky) Telegram
 
 🤝 **Open to New Projects and Collaboration!**
 I'm open to interesting proposals and collaborative projects. Let's create something amazing together!
+
+
+
+
 
 
 
