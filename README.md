@@ -1,7 +1,7 @@
 ### Hi guys! 🖐️
   
 💼 **Experience:**
-- **Web Development:** Designing and optimizing websites using modern technologies such as HTML5, CSS3, JavaScript. Experience with the Express framework.
+- **Web Development:** Designing and optimizing SPA/SSR using modern technologies such as HTML5, CSS3/SCSS, JavaScript, TypeScript. Experience with the Express framework and Next.
 - **Web Design:** Creating creative and unique design concepts tailored to client needs.
 - **Freelance:** Successfully completing projects for various clients on freelance platforms, ensuring high quality and meeting deadlines.
 
