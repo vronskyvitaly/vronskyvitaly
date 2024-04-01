@@ -2,7 +2,7 @@
   
 💼 **Experience:**
 - **Web Development:** Development and optimization of SPA/SSR using modern technologies such as HTML5, CSS3/SCSS, JavaScript, TypeScript, React. Experience with Express and Next frameworks.
-- **Web Design:** Creating creative and unique design concepts tailored to client needs.
+- **Web Design:** Crafting innovative and distinctive design concepts customized to meet the specific requirements of clients.
 - **Freelance:** Successfully completing projects for various clients on freelance platforms, ensuring high quality and meeting deadlines.
 
 🛠️ **Technical Skills:**
