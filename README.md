@@ -13,7 +13,7 @@
 - Knowledge of modern web development and design standards.
 
 🏗️ **Current Project:**
-Development of an online store using Next > 14v, state manager in the project using redux toolkit
+In a team of three developers, we are developing an online store using the Next(14) framework and the Redux Toolkit state manager. I am involved in prototyping applications and UI components in Figma and front-end and back-end development.
 
 🔗 **Connect with Me:**
 - 📧 Email: [vronskyvitaly@mail.ru](mailto:vronskyvitaly@mail.ru)
