@@ -9,11 +9,11 @@
 [![Codewars Badges](https://www.codewars.com/users/vitalyvronsky/badges/small)](https://www.codewars.com/users/vitalyvronsky)
 - Frontend: HTML5, CSS3, JavaScript (React, Vue.js)
 - Backend: Node.js (Express), Next
-- Design: Adobe Creative Suite (Photoshop, Illustrator), Figma
+- Design: Adobe Creative Suite (Photoshop, Illustrator), Figma, Pixo
 - Knowledge of modern web development and design standards.
 
 🏗️ **Current Project:**
-Actively working on an exciting project, utilizing my skills in JavaScript and React to create innovative web solutions.
+Development of an online store using Next > 14v, state manager in the project using redux toolkit
 
 🔗 **Connect with Me:**
 - 📧 Email: [vronskyvitaly@mail.ru](mailto:vronskyvitaly@mail.ru)
