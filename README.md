@@ -7,8 +7,8 @@
 
 🛠️ **Technical Skills:**
 [![Codewars Badges](https://www.codewars.com/users/vitalyvronsky/badges/small)](https://www.codewars.com/users/vitalyvronsky)
-- Frontend: HTML5, CSS3, JavaScript (React, Vue.js)
-- Backend: Node.js (Express), Next
+- Frontend: HTML5, JSX, CSS3/SCSS(module), TS, JS (React s.m [React Query, Redux Toolkit])
+- Backend: Node.js (Express, Nest), Next
 - Design: Adobe Creative Suite (Photoshop, Illustrator), Figma, Pixo
 - Knowledge of modern web development and design standards.
 
