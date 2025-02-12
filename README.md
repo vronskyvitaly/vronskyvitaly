@@ -21,7 +21,7 @@
 🤝 **Open to New Projects and Collaboration!**
 I'm open to interesting proposals and collaborative projects. Let's create something amazing together!-->
 
-# 💫 About Me:
+# 💫 About Me: [![Codewars Badges](https://www.codewars.com/users/vitalyvronsky/badges/small)](https://www.codewars.com/users/vitalyvronsky)
 ## Hello world!
 
 
