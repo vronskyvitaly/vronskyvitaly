@@ -21,8 +21,10 @@
 🤝 **Open to New Projects and Collaboration!**
 I'm open to interesting proposals and collaborative projects. Let's create something amazing together!-->
 
-# 💫 About Me: [![Codewars Badges](https://www.codewars.com/users/vitalyvronsky/badges/small)](https://www.codewars.com/users/vitalyvronsky)
-## Hello world!
+# 💫 [![Codewars Badges](https://www.codewars.com/users/vitalyvronsky/badges/small)](https://www.codewars.com/users/vitalyvronsky)
+## Hello World, I'm Vitali Vronski 👋
+
+I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript and Vue/React to build scalable and maintainable UIs.
 
 
 ## 🌐 Socials:
