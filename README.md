@@ -29,7 +29,7 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitaly-vronsky-69557728a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaly-vronsky-69557728a/) 
 [![Telegram](https://img.shields.io/badge/%20%20Telegram-2CA5E0)](https://t.me/vitalyvronsky) [![email](https://img.shields.io/badge/%20%20Email-blue)](mailto:vronskyvitaly@mail.ru) 
 
 # 💻 Tech Stack:
