@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vitali+Vronski+%F0%9F%91%8B;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+things+for+the+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vitali+Vronski+%F0%9F%91%8B;Fullstack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Building+things+for+the+web" alt="Typing SVG" />
 
 <br/>
 
@@ -15,11 +15,19 @@
 
 ## About me
 
-Frontend developer with a focus on **React / Next.js** and a strong eye for design. I build scalable UIs, care about performance and UX, and occasionally cross into backend territory with Node.js.
+Fullstack developer with a primary focus on **React / Next.js**, production experience across the entire stack — from UI/UX design in Figma to REST APIs, databases, and server deployment.
 
-- Currently working on my [portfolio](https://vronskyvitaly.ru) — Next.js 14 App Router, SCSS Modules, Framer Motion
-- I also do web design: Figma prototyping, UI systems, design-to-code handoffs
-- Open to interesting freelance projects and full-time opportunities
+I ship complete products end-to-end. My portfolio includes **8 production projects**: e-commerce platforms with AI assistants and mobile apps, SaaS tools, business automation systems, and landing pages with real traffic.
+
+**What makes me valuable to a team:**
+
+- **Full-cycle ownership** — I take a product from Figma prototype to deployed production without gaps between roles
+- **Design-first mindset** — I prototype in Figma before writing a line of code, so the UI is intentional, not accidental
+- **AI integration** — I build real AI-powered features: GPT bots, Claude-based automation, n8n workflows that save teams hours per week
+- **Mobile when needed** — React Native + Expo, same product discipline
+- **Infrastructure literacy** — Docker, Nginx, CI/CD, Linux; I don't stop at `npm run build`
+
+> Open to **full-time positions** (remote / relocation) and serious freelance projects. I respond fast.
 
 [![Codewars](https://www.codewars.com/users/vitalyvronsky/badges/small)](https://www.codewars.com/users/vitalyvronsky)
 
