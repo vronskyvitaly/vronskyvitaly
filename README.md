@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vitali+Vronski+%F0%9F%91%8B;Fullstack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Building+things+for+the+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vitali+Vronski+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Building+things+for+the+web" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ## About me
 
-Fullstack developer with a primary focus on **React / Next.js**, production experience across the entire stack — from UI/UX design in Figma to REST APIs, databases, and server deployment.
+Full-Stack developer with a primary focus on **React / Next.js**, production experience across the entire stack — from UI/UX design in Figma to REST APIs, databases, and server deployment.
 
 I ship complete products end-to-end. My portfolio includes **8 production projects**: e-commerce platforms with AI assistants and mobile apps, SaaS tools, business automation systems, and landing pages with real traffic.
 
