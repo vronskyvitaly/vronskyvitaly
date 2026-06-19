@@ -111,16 +111,18 @@ I ship complete products end-to-end. My portfolio includes **8 production projec
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vronskyvitaly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vronskyvitaly&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <a href="https://github.com/vronskyvitaly">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=vronskyvitaly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/vronskyvitaly">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vronskyvitaly&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vronskyvitaly&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vronskyvitaly&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
+  <a href="https://github.com/vronskyvitaly">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vronskyvitaly&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
