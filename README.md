@@ -15,7 +15,7 @@
 
 ## About me
 
-Full-Stack developer with a primary focus on **React / Next.js**, production experience across the entire stack — from UI/UX design in Figma to REST APIs, databases, and server deployment.
+Full-Stack developer with a primary focus on **React / Next.js**, production experience across the entire stack — from to REST APIs, databases, and server deployment.
 
 I ship complete products end-to-end. My portfolio includes **8 production projects**: e-commerce platforms with AI assistants and mobile apps, SaaS tools, business automation systems, and landing pages with real traffic.
 
