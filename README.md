@@ -22,7 +22,6 @@ I ship complete products end-to-end. My portfolio includes **8 production projec
 **What makes me valuable to a team:**
 
 - **Full-cycle ownership** — I take a product from Figma prototype to deployed production without gaps between roles
-- **Design-first mindset** — I prototype in Figma before writing a line of code, so the UI is intentional, not accidental
 - **AI integration** — I build real AI-powered features: GPT bots, Claude-based automation, n8n workflows that save teams hours per week
 - **Mobile when needed** — React Native + Expo, same product discipline
 - **Infrastructure literacy** — Docker, Nginx, CI/CD, Linux; I don't stop at `npm run build`
@@ -91,7 +90,6 @@ I ship complete products end-to-end. My portfolio includes **8 production projec
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
